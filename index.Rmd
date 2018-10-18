@@ -1,0 +1,19 @@
+---
+title: "Holy cow!"
+---
+
+### I have a webpage!
+
+And I can put all kinds of stuff on it!
+
+add additional text
+
+### Link
+
+I like [to look for code on the Internet](http://www.google.com)
+
+I can link directly to my [about page](about.html)
+
+### Picture
+
+<img src="images/Pear_2560_1440.png" style="width:125%">
